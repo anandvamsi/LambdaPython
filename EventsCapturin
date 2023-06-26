@@ -1,0 +1,8 @@
+#Capturing Event dictonary in proper readable format
+Getting Events from the Evenbridge rules are not readable
+  - Capture the event in cloudwatch event
+Paste the event dictionary in the vscode 
+  - install the vscode plugin Indent Nested 
+  - Shift + ctrl + P   select >> "Inded Nested Dictornary"
+
+This is 
